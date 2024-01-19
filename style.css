@@ -19,7 +19,7 @@ body {
     position: relative;
     width: 80vw;
     max-width: 400px;
-    transform: translateY(-5%);
+    transform: translateY(-5%) translateX(5%);
     transform-style: preserve-3d;
 }
 .horce_wrapper img{
